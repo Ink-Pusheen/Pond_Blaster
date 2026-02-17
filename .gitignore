@@ -72,3 +72,13 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Releases/1..1/Windows/AssetRegistry.bin
+Releases/1..1/Windows/Metadata/DevelopmentAssetRegistry.bin
+Releases/1..1/Windows/Pond_Blaster-Windows.pak
+Releases/1..1/Windows/Pond_Blaster-Windows.ucas
+Releases/1..1/Windows/Pond_Blaster-Windows.utoc
+Releases/1.0/Windows/AssetRegistry.bin
+Releases/1.0/Windows/Metadata/DevelopmentAssetRegistry.bin
+Releases/1.0/Windows/Pond_Blaster-Windows.pak
+Releases/1.0/Windows/Pond_Blaster-Windows.ucas
+Releases/1.0/Windows/Pond_Blaster-Windows.utoc
